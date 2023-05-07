@@ -1,0 +1,9 @@
+# code editor
+.idea/
+
+# virtual enviroment
+.venv/
+
+# cache
+__pycache__/
+*/__pycache__/
